@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+Yello
 Red
 These are the colors of the raindbow.
 
